@@ -321,7 +321,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(/images/b.jpg);
+	background-image: url(/images/a.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -329,7 +329,7 @@ header .navbar {
 
 .banner-item-03 {
 	padding: 300px 0px;
-	background-image: url(/images/c.jpg);
+	background-image: url(/images/a.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
